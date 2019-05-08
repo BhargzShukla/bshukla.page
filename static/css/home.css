@@ -1,0 +1,13 @@
+body {
+    background: #03191E !important;
+    color: #C1CFDA;
+}
+
+.jumbotron {
+    background: transparent !important;
+}
+
+.my-4 {
+    color: #C1CFDA !important;
+    background: transparent !important;
+}
